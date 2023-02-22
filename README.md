@@ -1,4 +1,4 @@
-# Sieve of Erastothenes
+# Sieve of Eratosthenes
 
 In deze laatste opdracht gaan we de krachten van OpenMP en MPI combineren. Dit is uiteraard handig als je een multi-processor multi-node supercomputer of computercluster tot je beschikking hebt.
 
